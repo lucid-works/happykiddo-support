@@ -5,7 +5,7 @@ description: HappyKiddo Support site
 
 ### Build settings
 
-url: https://happykiddo-support.github.io
+url: http://support.happykiddo.io/
 baseurl:
 
 theme: just-the-docs
