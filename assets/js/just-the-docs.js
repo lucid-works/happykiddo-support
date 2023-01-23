@@ -59,7 +59,7 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', 'https://happykiddo-support.github.io/assets/css/just-the-docs-' + theme + '.css');
+  cssFile.setAttribute('href', 'http://support.happykiddo.io//assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Document ready
