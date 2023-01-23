@@ -1,0 +1,25 @@
+### Site metadata
+
+title: HappyKiddo Support site
+description: HappyKiddo Support site
+
+### Build settings
+
+url: https://happykiddo-support.github.io
+baseurl:
+
+theme: just-the-docs
+
+defaults:
+  - scope:
+      path: "*.md"
+    values:
+      layout: page
+
+exclude:
+  - LICENSE
+  - Makefile
+  - sample.png
+  - README.md
+
+search_enabled: false
